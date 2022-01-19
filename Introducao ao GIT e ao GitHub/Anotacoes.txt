@@ -1,0 +1,30 @@
+git init ( iniciar ) cria a pasta do git e inicializa o repositorio 
+git add (adicionar 
+git commit (criar 
+
+Criando um repositorio 
+
+ls -a que mostra arquivos ocultos no git
+
+
+baixar um repositorio 
+
+git clone e colar a url 
+
+ADD a README file ( cria um arquivo como se fosse a pagina inicial do repositorio)
+ADD .gitignore ( Para que o git ignore alguns arquivos nao exenciais
+Choose a license ( para escolher uma licensa ) 
+
+baixar o repositorio para a maquina 
+comando : 
+git clone + url copiada do Github
+
+o Git Bash é um terminal extendido para otimizar o uso do Git.
+ 
+
+
+
+
+
+
+

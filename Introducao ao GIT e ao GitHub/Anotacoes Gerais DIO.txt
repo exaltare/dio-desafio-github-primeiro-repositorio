@@ -1,0 +1,53 @@
+.NET É GRATUITO !
+caracteristicas principais 
+Sistemas de tipos comuns
+Tipos definidos pelo prodrio framework 
+interoperabilidade entre linguagens 
+Uso do .NET Standart 
+
+ASP.NET Core 
+é Possivel desenvolver Aplicações web , IoT , e aplicacoes backuend para MOBO
+-> Model: Representa o estado da aplicação, encapsulamento logico de negocio 
+-> View: Repsonsavel por apresentar dados atraves de interface 
+-> Controller: Componentes que lidam com a interacao do usuario a partir 
+da view e trabalham com a model para apresentar respostas para o usuario
+-> Modo Binding : Mapeamento automatico de dados de requisicao HTTP para paramentros de metros de acao 
+-> Model Validation: Validacao automatica no lado do cliente e server 
+-> Blazor : Frameword para construir aplicativos do lado do cliente, que sao 
+executados direto no navegador com WebAssembly
+
+XAMARIN
+Plataforma para desenvolvimento MOBO
+
+Camel Case 
+sempre com a primeira letra da descricao como minuscula e o restante maiscula ex:
+nomeDoAluno 
+
+PascalCase
+A primeira letra sempre maiscula 
+
+Nomes de classes e metodos -> PascalCase
+Variaveis e parametros -> CamelCase
+Interfaces -> Prefixo "i"
+
+Ferramentas de Desenvolvimento 
+
+Visual Studio 
+-> 3 tipos de licenca 
+community 
+Professional 
+Enterprise
+
+Visual Studio Code é somente um editor mais leve que voce pode adicionar plugins 
+
+Linguagens Suportadas 
+
+C# , 
+
+Quando usar o .NET 
+-> Necessitar de plataforma cruzada 
+-> Qunado há direcionamento de microsservicos 
+
+.NET Framework 
+-> Não houver a necessidade de micracao para o .NET
+-> Bibliotecas de terceiros ou pacotes NUGET nao sao disponiveis para .NET
